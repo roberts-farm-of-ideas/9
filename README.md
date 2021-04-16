@@ -5,6 +5,8 @@
 
 ## This idea in NUMBER_OF_CHARACTERS characters
 Compare the results from eQuilibrator (component contribution) or group contribution methods with experimental results from nucleoside phosphorolysis. 
+
+Inspired by a comment from Frank Hollmann (https://orcid.org/0000-0003-4821-756X) during the PhD thesis defence of Felix Kaspar (https://orcid.org/0000-0001-6391-043X).
  
 ## Sounds great, but...
 You are interested in this topic? But the idea is gibberish and incomplete, or non-sense? Well, you're probably right! 
