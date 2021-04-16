@@ -1,14 +1,19 @@
 {
-    "description": "DESCRIPTION_GOES_HERE.", 
-    "title": "Robert's Farm of Ideas: RUNNING_NUMBER_OF_IDEA -- RUNNING_TITLE_OF_IDEA", 
+    "description": " Compare the results from eQuilibrator (component contribution) or group contribution methods with experimental results from nucleoside phosphorolysis .", 
+    "title": "Robert's Farm of Ideas: 9 -- comparing experimental and predicted equilibrium constants", 
     "license": {
         "id": "CC-BY-4.0"
     }, 
-    "notes": "Development is happening here: https://github.com/roberts-farm-of-ideas/RUNNING_NUMBER_OF_IDEA", 
+    "notes": "Development is happening here: https://github.com/roberts-farm-of-ideas/9", 
     "keywords": [
-        "KEYWORD1",
-        "",
-        "KEYWORDLAST"
+        "nucleoside phosphorolysis",
+        "group contribution method",
+        "component contribution",
+        "prediction",
+        "equilibrium constant",
+        "comparison",
+        "actual vs predicted",
+        "eQuilibrator"
     ],
     "creators": [
     {
